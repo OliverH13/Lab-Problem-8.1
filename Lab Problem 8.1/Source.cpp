@@ -38,7 +38,6 @@ int count_vowel(string str) {
             sum += convert(str[i]);
     }
     return sum;
-
 }
 
 int convert(char vowel) {
